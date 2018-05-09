@@ -45,9 +45,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/alecharp/simple-app.git</connection>
-    <developerConnection>scm:git:https://github.com/alecharp/simple-app.git</developerConnection>
-    <url>https://github.com/alecharp/simple-app</url>
+    <connection>scm:git:https://github.com/yoba730/ajc-jenkins.git</connection>
+    <developerConnection>scm:https://github.com/yoba730/ajc-jenkins.git</developerConnection>
+    <url>https://https://github.com/yoba730/ajc-jenkins</url>
   </scm>
 
   <properties>
@@ -99,7 +99,7 @@
     <dependency>
       <groupId>org.webjars.npm</groupId>
       <artifactId>bootstrap</artifactId>
-      <version>4.0.0-alpha.4</version>
+      <version>4.0.0</version>
     </dependency>
 
     <!-- Tests -->
